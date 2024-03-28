@@ -5,7 +5,7 @@
 
 ## Menentukan Pertanyaan Bisnis
 * Stasiun mana yang memiliki tingkat pencemaran udara tertinggi berdasarkan konsentrasi PM2,5 dan PM10?
-* Apakah tingkat pencemaran udara memiliki kenaikan atau penurunan dari tahun 2013 hingga 2017?
+* Bagaimanakah trend tingkat pencemaran udara dari tahun 2013 hingga 2017?
 
 ## Menyiapkan semua library yang dibutuhkan
 
@@ -15,6 +15,8 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
+from sklearn.cluster import KMeans
+from babel.numbers import format_currency
 ```
 
 ## Data Wrangling
@@ -11949,7 +11951,7 @@ plt.show()
     
 
 
-### Apakah tingkat pencemaran udara memiliki kenaikan atau penurunan dari tahun 2013 hingga 2017?
+### Bagaimanakah trend tingkat pencemaran udara dari tahun 2013 hingga 2017?
 
 
 ```python
@@ -12105,13 +12107,13 @@ plt.show()
 ```
 conda create --name main-ds python=3.12
 conda activate main-ds
-pip install pandas matplotlib seaborn streamlit babel
+pip install pandas matplotlib seaborn streamlit babel numpy scipy scikit-learn
 ```
 
 ### Menjalankan streamlit di local
 
 ```
-streamlit run dashboard.py
+streamlit run C:\New folder\dicoding\proyek analisis data\dashboard\dashboard.py
 ```
 
 ### Tangkapan Layar Dashboard
