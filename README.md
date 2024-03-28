@@ -4,7 +4,7 @@
 * Id Dicoding: grecilia
 
 ## Menentukan Pertanyaan Bisnis
-* Stasiun mana yang memiliki tingkat pencemaran udara tertinggi dan terendah berdasarkan konsentrasi PM2,5 dan PM10?
+* Stasiun mana yang memiliki tingkat pencemaran udara tertinggi berdasarkan konsentrasi PM2,5 dan PM10?
 * Apakah tingkat pencemaran udara memiliki kenaikan atau penurunan dari tahun 2013 hingga 2017?
 
 ## Menyiapkan semua library yang dibutuhkan
@@ -12520,5 +12520,6 @@ streamlit run dashboard.py
 ```
 
 ### Tangkapan Layar Dashboard
-![[png](Screenshot%20(6).png)](https://github.com/Grecilia/dicoding_proyek_analisis_data_sub/blob/9c51a8f144abfb1e24c0cac51397dae0de257583/images/Screenshot%20(6).png)
-![[png](Screenshot%20(7).png)](https://github.com/Grecilia/dicoding_proyek_analisis_data_sub/blob/9c51a8f144abfb1e24c0cac51397dae0de257583/images/Screenshot%20(7).png)
+![[png](streamlit1.png)](https://github.com/Grecilia/airqualitydataanalysis/blob/main/images/streamlit1.png)
+![[png](streamlit2.png)](https://github.com/Grecilia/airqualitydataanalysis/blob/main/images/streamlit2.png)
+![[png](streamlit3.png)](https://github.com/Grecilia/airqualitydataanalysis/blob/main/images/streamlit3.png)
