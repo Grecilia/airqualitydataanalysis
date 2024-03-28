@@ -32,20 +32,7 @@ changping_aq_df.head(10)
 
 
 
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -299,19 +286,6 @@ dingling_aq_df.head(10)
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -565,19 +539,6 @@ dongsi_aq_df.head(10)
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -831,19 +792,6 @@ shunyi_aq_df.head(10)
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -1168,19 +1116,6 @@ changping_aq_df.describe()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -1443,19 +1378,6 @@ dingling_aq_df.describe()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -1718,19 +1640,6 @@ dongsi_aq_df.describe()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -1993,19 +1902,6 @@ shunyi_aq_df.describe()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -2200,19 +2096,6 @@ changping_aq_df[changping_aq_df['PM2.5'].isna()]
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -2503,19 +2386,6 @@ changping_aq_df[changping_aq_df['PM10'].isna()]
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -2805,19 +2675,6 @@ changping_aq_df[changping_aq_df['SO2'].isna()]
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -3107,19 +2964,6 @@ changping_aq_df[changping_aq_df['NO2'].isna()]
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -3409,19 +3253,6 @@ changping_aq_df[changping_aq_df['CO'].isna()]
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -3711,19 +3542,6 @@ changping_aq_df[changping_aq_df['O3'].isna()]
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -4009,19 +3827,6 @@ changping_aq_df[changping_aq_df['TEMP'].isna()]
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -5188,19 +4993,6 @@ changping_aq_df[changping_aq_df['PRES'].isna()]
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -6304,19 +6096,6 @@ changping_aq_df[changping_aq_df['DEWP'].isna()]
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -7483,19 +7262,6 @@ changping_aq_df[changping_aq_df['RAIN'].isna()]
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -8620,19 +8386,6 @@ changping_aq_df[changping_aq_df['wd'].isna()]
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -8947,19 +8700,6 @@ changping_aq_df[changping_aq_df['WSPM'].isna()]
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -10384,19 +10124,6 @@ changping_aq_df.describe()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -10589,19 +10316,6 @@ dingling_aq_df.describe()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -10794,19 +10508,6 @@ dongsi_aq_df.describe()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -10999,19 +10700,6 @@ shunyi_aq_df.describe()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -11208,19 +10896,6 @@ aq_mean_df.head()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -11283,19 +10958,6 @@ changping_aq_trend_df.head()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -11389,19 +11051,6 @@ dingling_aq_trend_df.head()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -11495,19 +11144,6 @@ dongsi_aq_trend_df.head()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -11601,19 +11237,6 @@ shunyi_aq_trend_df.head()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -11705,19 +11328,6 @@ merged_df1.head()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -11849,19 +11459,6 @@ merged_df2.head()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -11994,19 +11591,6 @@ aq_trend_df.head()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -12334,7 +11918,7 @@ print(o3_trend_df)
 
 ## Visualization & Explanatory Analysis
 
-### Stasiun mana yang memiliki tingkat pencemaran udara tertinggi dan terendah berdasarkan konsentrasi PM2,5 dan PM10?
+### Stasiun mana yang memiliki tingkat pencemaran udara tertinggi berdasarkan konsentrasi PM2,5 dan PM10?
 
 
 ```python
@@ -12357,22 +11941,11 @@ ax[1].tick_params(axis ='x', labelsize=12)
 plt.suptitle("Tingkat Pencemaran Udara Rata-Rata", fontsize=20)
 plt.show()
 ```
-
-    C:\Users\richa\AppData\Local\Temp\ipykernel_13160\270181905.py:5: FutureWarning: 
-    
-    Passing `palette` without assigning `hue` is deprecated and will be removed in v0.14.0. Assign the `x` variable to `hue` and set `legend=False` for the same effect.
-    
-      sns.barplot(x='station_name', y='PM2.5', data=aq_mean_df, palette=colors, ax=ax[0])
-    C:\Users\richa\AppData\Local\Temp\ipykernel_13160\270181905.py:11: FutureWarning: 
-    
-    Passing `palette` without assigning `hue` is deprecated and will be removed in v0.14.0. Assign the `x` variable to `hue` and set `legend=False` for the same effect.
-    
-      sns.barplot(x='station_name', y='PM10', data=aq_mean_df, palette=colors, ax=ax[1])
     
 
 
     
-![output_122_1.png](https://github.com/Grecilia/dicoding_proyek_analisis_data_sub/blob/9c51a8f144abfb1e24c0cac51397dae0de257583/images/output_122_1.png)
+![highestpollution.png](https://github.com/Grecilia/airqualitydataanalysis/blob/main/images/highestpollution.png)
     
 
 
@@ -12393,7 +11966,7 @@ plt.show()
 
 
     
-![output_124_0.png](https://github.com/Grecilia/dicoding_proyek_analisis_data_sub/blob/9c51a8f144abfb1e24c0cac51397dae0de257583/images/output_124_0.png)
+![trendpm25.png](https://github.com/Grecilia/airqualitydataanalysis/blob/main/images/trendpm25.png)
     
 
 
@@ -12412,7 +11985,7 @@ plt.show()
 
 
     
-![output_125_0.png](https://github.com/Grecilia/dicoding_proyek_analisis_data_sub/blob/9c51a8f144abfb1e24c0cac51397dae0de257583/images/output_125_0.png)
+![trendpm10.png](https://github.com/Grecilia/airqualitydataanalysis/blob/main/images/trendpm10.png)
     
 
 
@@ -12431,7 +12004,7 @@ plt.show()
 
 
     
-![[png](output_126_0.png)](https://github.com/Grecilia/dicoding_proyek_analisis_data_sub/blob/9c51a8f144abfb1e24c0cac51397dae0de257583/images/output_126_0.png)
+![[png](trenso2.png)](https://github.com/Grecilia/airqualitydataanalysis/blob/main/images/trenso2.png)
     
 
 
@@ -12450,7 +12023,7 @@ plt.show()
 
 
     
-![[png](output_127_0.png)](https://github.com/Grecilia/dicoding_proyek_analisis_data_sub/blob/9c51a8f144abfb1e24c0cac51397dae0de257583/images/output_127_0.png)
+![[png](trendno2.png)](https://github.com/Grecilia/airqualitydataanalysis/blob/main/images/trendno2.png)
     
 
 
@@ -12469,7 +12042,7 @@ plt.show()
 
 
     
-![[png](output_128_0.png)](https://github.com/Grecilia/dicoding_proyek_analisis_data_sub/blob/9c51a8f144abfb1e24c0cac51397dae0de257583/images/output_128_0.png)
+![[png](trendco.png)](https://github.com/Grecilia/airqualitydataanalysis/blob/main/images/trendco.png)
     
 
 
@@ -12488,17 +12061,39 @@ plt.show()
 
 
     
-![[png](output_129_0.png)](https://github.com/Grecilia/dicoding_proyek_analisis_data_sub/blob/9c51a8f144abfb1e24c0cac51397dae0de257583/images/output_129_0.png)
+![[png](trend03.png)](https://github.com/Grecilia/airqualitydataanalysis/blob/main/images/trendo3.png)
     
 
 ```python
 aq_trend_df.to_csv("main_data.csv", index=False)
 ```
 
+## KMeans Clustering
 
+```python
+from sklearn.cluster import KMeans
+
+features_for_clustering = ['PM2.5_x_x', 'PM10_x_x', 'O3_x_x', 'NO2_x_x', 'SO2_x_x', 'CO_x_x']
+
+aq_trend_df.dropna(subset=features_for_clustering, inplace=True)
+
+normalized_data = (aq_trend_df[features_for_clustering] - aq_trend_df[features_for_clustering].mean()) / aq_trend_df[features_for_clustering].std()
+
+num_clusters = 4
+
+# Performing KMeans clustering
+kmeans = KMeans(n_clusters=num_clusters, random_state=42)
+aq_trend_df['Cluster'] = kmeans.fit_predict(normalized_data)
+
+# Visualizing the clusters
+sns.pairplot(aq_trend_df, hue='Cluster', vars=features_for_clustering)
+plt.show()
+```
+
+![[png](cluster.png)](https://github.com/Grecilia/airqualitydataanalysis/blob/main/images/cluster.png)
 
 ## Conclusion
-* Untuk pertanyaan 1, dapat disimpulkan bahwa Stasiun Dongsi memiliki tingkat pencemaran udara tertinggi, sedangkat Stasiun Dingling memiliki tingkat pencemaran udara terendah.
+* Untuk pertanyaan 1, dapat disimpulkan bahwa Stasiun Dongsi memiliki tingkat pencemaran udara tertinggi.
 * Untuk pertanyaan 2, dapat disimpulkan dari data di atas bahwa tingkat pencemaran udara relatif meningkat dari tahun 2013 hingga 2017, walaupun konsentrasi O3 mengalami penurunan cukup drastis dari tahun 2013 hingga 2017.
 
 
@@ -12510,7 +12105,7 @@ aq_trend_df.to_csv("main_data.csv", index=False)
 ```
 conda create --name main-ds python=3.12
 conda activate main-ds
-pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
+pip install pandas matplotlib seaborn streamlit babel
 ```
 
 ### Menjalankan streamlit di local
