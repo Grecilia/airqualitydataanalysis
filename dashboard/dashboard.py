@@ -81,7 +81,7 @@ def create_o3_trend_df(df):
     o3_trend_df.index.name='year'
     return o3_trend_df
 
-main_df = pd.read_csv('dashboard/main_data.csv')
+main_df = pd.read_csv('https://github.com/Grecilia/airqualitydataanalysis/blob/main/dashboard/main_data.csv')
 
 aq_mean_df = create_aq_mean_df(main_df)
 pm25_trend_df = create_pm25_trend_df(main_df)
