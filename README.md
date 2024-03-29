@@ -12113,7 +12113,7 @@ pip install pandas matplotlib seaborn streamlit babel numpy scipy scikit-learn
 ### Menjalankan streamlit di local
 
 ```
-streamlit run C:\New folder\dicoding\proyek analisis data\dashboard\dashboard.py
+streamlit run dashboard/dashboard.py
 ```
 
 ### Tangkapan Layar Dashboard
